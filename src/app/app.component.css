@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  background-color: #45181852;
+  padding: 5px;
+  border-radius: 10px;
+  width: 500px;
+  margin: 50px auto 0;
+}
+.titulo {
+  font-size: 50px;
+  font-family: 'Kode Mono', monospace;
+  color: aliceblue;
+}
+
+.texto {
+  font-size: x-large;
+}
+
+.image {
+  max-width: 70%;
+  height: auto;
+  border-radius: 30px;
+}
